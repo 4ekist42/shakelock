@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrivateLock</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="threshold">Threshold</string>
+    <string name="locked_title">LOCKED</string>
+    <string name="locked_msg">Shake detected. Tap Unlock.</string>
+    <string name="unlock">Unlock</string>
+</resources>
